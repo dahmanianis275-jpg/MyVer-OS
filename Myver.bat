@@ -81,6 +81,36 @@ timeout /t 0 /nobreak >nul
 echo   %GREEN%Welcome, %WHITE%%BOLD%!username!%RESET%%GREEN%!%RESET%
 timeout /t 1 /nobreak >nul
 
+:: ========== WELCOME NOTEPAD ==========
+cls
+echo.
+echo %YELLOW%  ╔════════════════════════════════════════════════════════════════╗%RESET%
+echo %YELLOW%  ║%RESET%  %WHITE%%BOLD%NOTEPAD%RESET%  -  Myver Welcome Message                           %YELLOW%║%RESET%
+echo %YELLOW%  ╠════════════════════════════════════════════════════════════════╣%RESET%
+echo %YELLOW%  ║%RESET%                                                                %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  %GREEN%WELCOME%RESET%                                                      %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  Hello !username! ^& welcome to %WHITE%Myver (Linux Distro) (Beta)%RESET%     %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  A lightweight animated terminal Linux experience.            %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%                                                                %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  %RED%WARNING%RESET%                                                      %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  This is a simulated terminal OS for fun only.                %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  It does NOT install a real Linux system.                     %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  Do not use for production or system administration.          %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%                                                                %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  %CYAN%INSTRUCTIONS%RESET%                                                 %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  Type %WHITE%help%RESET% to see all available commands.                     %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  Try: neofetch , matrix , cowsay hello , sl , fortune         %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  Type %WHITE%exit%RESET% to shut down Myver.                                %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%                                                                %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  %MAGENTA%CREDITS%RESET%                                                      %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  Inspired by %WHITE%Linux%RESET%                                            %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%  Created by %WHITE%me%RESET%                                                %YELLOW%║%RESET%
+echo %YELLOW%  ║%RESET%                                                                %YELLOW%║%RESET%
+echo %YELLOW%  ╚════════════════════════════════════════════════════════════════╝%RESET%
+echo.
+echo   %DIM%Press any key to continue...%RESET%
+pause >nul
+
 :: ========== MAIN SHELL ==========
 :shell
 cls
