@@ -243,7 +243,7 @@ echo.
 goto prompt
 
 :ls
-echo   %BLUE%bin%RESET%  %BLUE%etc%RESET%  %BLUE%home%RESET%  %BLUE%usr%RESET%  %BLUE%var%RESET%  %GREEN%README.md%RESET%  %YELLOW%Myver.bat%RESET%
+echo   %BLUE%bin%RESET%  %BLUE%etc%RESET%  %BLUE%home%RESET%  %BLUE%usr%RESET%  %BLUE%var%RESET%  %GREEN%README.txt%RESET%  %YELLOW%Myver.bat%RESET%
 goto prompt
 
 :clear
