@@ -1,4 +1,4 @@
-# MyVer OS v1.0 — Terminal Linux Distro (Animated)
+# Myver (Linux Distro) (Beta)
 
 A fun animated terminal Linux experience that runs **inside Windows Command Prompt** (cmd.exe).
 
@@ -6,7 +6,7 @@ A fun animated terminal Linux experience that runs **inside Windows Command Prom
 
 ### Easiest way
 1. Download / clone this repo
-2. Double-click **`MyVerOS.bat`**
+2. Double-click **`Myver.bat`**
 
 No PowerShell required.
 
@@ -35,11 +35,9 @@ No PowerShell required.
 
 ## Files
 
-| File              | Description                              |
-|-------------------|------------------------------------------|
-| **MyVerOS.bat**   | Main version — runs in Command Prompt    |
-| MyVerOS.ps1       | Optional PowerShell version              |
-| myver.sh          | Linux / WSL / Git Bash version           |
+| File            | Description                              |
+|-----------------|------------------------------------------|
+| **Myver.bat**   | Main version — runs in Command Prompt    |
 
 ## Download
 
@@ -50,4 +48,4 @@ Or clone:
 git clone https://github.com/dahmanianis275-jpg/MyVer-OS.git
 ```
 
-Enjoy your terminal distro!
+**Myver (Linux Distro) (Beta)** — Enjoy your terminal distro!
